@@ -2,8 +2,6 @@
 
 A web application that fetches and displays country information.
 
-![App Screenshot](https://github.com/user-attachments/assets/eefc4c75-59e6-4da8-a06c-d74d8dc5c421) <!-- Add your screenshot here -->
-
 ## Features ✨
 - Search for any country by name
 - Displays comprehensive country information including:
@@ -54,7 +52,6 @@ country-guide-app/
 ## Customization 🎨
 
 - You can modify these CSS variables in style.css:
-  ```
 :root {
   --primary-color: #0a35c1;       /* Change border color */
   --secondary-color: #222a43;     /* Change heading color */
@@ -71,29 +68,4 @@ country-guide-app/
 - Firefox (latest)
 - Edge (latest)
 - Safari (latest)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![Screenshot 2025-05-28 102209](https://github.com/user-attachments/assets/eefc4c75-59e6-4da8-a06c-d74d8dc5c421)
