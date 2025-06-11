@@ -48,11 +48,6 @@ country-guide-app/
 └── 📝 README.md
 ```
 
-## 🌐 API Reference
-Using [REST Countries API](https://restcountries.com/):
-- 🔗 Endpoint: `https://restcountries.com/v3.1/name/{countryName}?fullText=true`
-- 📦 Returns JSON data
-
 ## 🎨 Customization
 Modify in `style.css`:
 ```css
@@ -74,20 +69,7 @@ Modify in `style.css`:
 | Edge    | ✅     |
 | Safari  | ✅     |
 
-## 📜 License
-MIT © YourName
+##Output
 
----
+![Demo]()![country guide app](https://github.com/user-attachments/assets/d91c05d7-e03a-4df2-8d42-09c8b36afc64)
 
-💡 **Tip**: For best results, ensure you're online to fetch fresh country data!
-```
-
-Key emoji enhancements:
-- Used category-relevant emojis for each section
-- Added visual cues for different features
-- Improved scannability with consistent emoji patterns
-- Maintained professional tone while being visually engaging
-- Included emoji legend for file structure
-- Added status emojis in browser support table
-
-The emojis make the README more engaging while keeping it professional and informative. Each emoji serves a purpose to quickly convey meaning at a glance.
