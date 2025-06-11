@@ -67,7 +67,8 @@ Modify in `style.css`:
 | Edge    | ✅     |
 | Safari  | ✅     |
 
-##Output
+
+## Output
 
 ![country guide app](https://github.com/user-attachments/assets/d91c05d7-e03a-4df2-8d42-09c8b36afc64)
 
