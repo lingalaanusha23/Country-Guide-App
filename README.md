@@ -52,13 +52,14 @@ country-guide-app/
 ## Customization 🎨
 
 - You can modify these CSS variables in style.css:
-:root {
-  --primary-color: #0a35c1;       /* Change border color */
-  --secondary-color: #222a43;     /* Change heading color */
-  --background-color: #f5f5f5;   /* Change background */
-  --error-color: #ff465a;         /* Change error message color */
-  }
-  
+  ```bash
+    :root {
+    --primary-color: #0a35c1;       /* Change border color */
+    --secondary-color: #222a43;     /* Change heading color */
+    --background-color: #f5f5f5;   /* Change background */
+    --error-color: #ff465a;         /* Change error message color */
+    }
+
 ## Error Handling ❌
 - Displays error if input field is empty
 - Shows warning if country name is invalid
@@ -68,4 +69,6 @@ country-guide-app/
 - Firefox (latest)
 - Edge (latest)
 - Safari (latest)
+
+  
 ![Screenshot 2025-05-28 102209](https://github.com/user-attachments/assets/eefc4c75-59e6-4da8-a06c-d74d8dc5c421)
