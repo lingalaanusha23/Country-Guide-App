@@ -2,8 +2,6 @@
 
 A web application that fetches and displays country information using the REST Countries API.
 
-![App Screenshot](./screenshot.png) <!-- Add your screenshot here -->
-
 ## ✨ Features
 - 🔍 Search for any country by name
 - 📊 Displays comprehensive country information:
@@ -71,5 +69,5 @@ Modify in `style.css`:
 
 ##Output
 
-![Demo]()![country guide app](https://github.com/user-attachments/assets/d91c05d7-e03a-4df2-8d42-09c8b36afc64)
+![country guide app](https://github.com/user-attachments/assets/d91c05d7-e03a-4df2-8d42-09c8b36afc64)
 
