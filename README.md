@@ -1,100 +1,53 @@
-# 💰 Expense Tracker
+# 🌍 Country Guide App 🌎
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![HTML](https://img.shields.io/badge/HTML-5-orange)
-
-A simple yet powerful expense tracking application that helps you manage your finances with local storage persistence.
-
-![Expense Tracker Screenshot](https://i.ibb.co/jfScDTC/budget.png)
+A simple web application that provides information about countries.
 
 ## ✨ Features
 
-- 📊 Track income and expenses
-- 💾 Local storage persistence
-- 📱 Responsive design
-- 📈 Real-time balance calculation
-- 🔔 Form validation notifications
-- 🗑️ Delete transaction functionality
-- 💵 Indian Rupee (₹) formatting
+- 🔍 Search for any country by name
+- 📊 Displays:
+  - 🏳️ Country flag
+  - 🏙️ Capital city
+  - 🌏 Continent
+  - 👥 Population
+  - 💰 Currency information
+  - 🗣️ Official languages
+- 📱 Responsive design that works on mobile and desktop
+- 🎨 Clean, modern UI with smooth animations
 
-## 🛠️ Tech Stack
+## 🚀 How to Use
 
-- **Frontend**: HTML5, CSS3, JavaScript (ES6+)
-- **Storage**: Browser LocalStorage
-- **Styling**: Custom CSS with modern shadows and transitions
-- **Icons**: Simple budget icon
+1. ✏️ Enter a country name in the search field
+2. 🔘 Click the "Search" button
+3. 📖 View detailed information about the country
 
-## 🚀 Quick Start
+## 🛠️ Technologies Used
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/expense-tracker.git
-   cd expense-tracker
-   ```
+- 📄 HTML5
+- 🎨 CSS3
+- ⚙️ JavaScript (ES6)
+- 🌐 REST Countries API
 
-2. Open `index.html` in your browser:
-   ```bash
-   open index.html  # On macOS
-   start index.html # On Windows
-   ```
-
-## 📋 Usage Guide
-
-### Adding Transactions
-1. Enter a description (e.g., "Groceries")
-2. Enter amount:
-   - Positive for income (e.g., 5000)
-   - Negative for expenses (e.g., -200)
-3. Click "Add transaction"
-
-### Managing Transactions
-- ✏️ Transactions appear in history list
-- ❌ Hover over transaction and click "×" to delete
-- 💰 Balance updates automatically
-
-## 📂 File Structure
+## 📂 Files Structure
 
 ```
-expense-tracker/
-├── index.html          # Main application file
-├── style.css           # All styling rules
-├── script.js           # Core functionality
-└── README.md           # Documentation
+country-guide-app/
+├── 📄 index.html        # Main HTML file
+├── 🎨 style.css         # Stylesheet
+└── ⚙️ script.js         # JavaScript functionality
 ```
 
-## 🎨 UI Components
+## 🌟 Bonus Features
 
-| Component | Description | Classes |
-|-----------|-------------|---------|
-| Balance Card | Shows total balance | `.balance-container` |
-| Income/Expense | Summary cards | `.inc-exp-container` |
-| History List | Transaction records | `.list` |
-| Form | Add new transactions | `#form` |
-| Notification | Error messages | `.notification-container` |
+- ✅ Error handling for invalid country names
+- 🖼️ Flag image display
+- 📱 Mobile-friendly design
+- ⚡ Fast API response
 
-## 🔧 Customization
+## 🙏 Credits
 
-### Change Colors
-Modify in `style.css`:
-```css
-:root {
-  --income-color: #2ecc71;      /* Green */
-  --expense-color: #c0392b;     /* Red */
-  --primary-color: #9c88ff;     /* Purple */
-  --shadow: 0 1px 3px rgba(0,0,0,0.12);
-}
-```
+- Powered by [REST Countries API](https://restcountries.com/)
+- Fonts by [Google Fonts](https://fonts.google.com/)
+- Emojis by [Twemoji](https://twemoji.twitter.com/)
 
-### Change Currency
-Update in `script.js`:
-```javascript
-function formatRupees(num) {
-  return '₹' + num.toLocaleString('en-IN');
-  // Change to '$' + num.toFixed(2) for USD
-}
-```
-
-## ⚠️ Known Issues
-
-- ❌ No data export/import functionality
-- ❌ No category support
-- ❌ No date tracking for transactions
+Enjoy exploring the world! 🌎🌍🌏
