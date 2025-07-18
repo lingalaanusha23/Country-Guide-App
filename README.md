@@ -96,7 +96,7 @@ body {
 
 ## 📸 Sample Output
 
-![Country Guide App Screenshot](https://via.placeholder.com/600x400/9c88ff/ffffff?text=Country+Guide+App)
+![Country Guide App Screenshot](https://github.com/user-attachments/assets/a167a69a-87e2-4aa8-8c84-3d921a27d341)
 
 
 Happy country exploring! 🌎✈️🗺️
