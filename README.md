@@ -1,6 +1,6 @@
 # 🌍 Country Guide App 🌎
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![HTML](https://img.shields.io/badge/HTML-5-orange) ![API](https://img.shields.io/badge/API-RESTCountries-brightgreen)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![HTML](https://img.shields.io/badge/HTML-5-orange) 
 
 A beautiful web application that provides comprehensive country information using the REST Countries API.
 
